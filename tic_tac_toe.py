@@ -1,3 +1,5 @@
+import sys
+
 from modules.ui import intro, how_many_players, play_game, \
     who_starts, show_instructions, play_again
 from modules.clear_screen import clear
@@ -20,3 +22,4 @@ if __name__ == '__main__':
     clear()
     print('See you soon!')
     print()
+    sys.exit()
