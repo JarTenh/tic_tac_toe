@@ -20,6 +20,6 @@ You play the game on your terminal
 3. Type 'python tic_tac_toe.py' to launch the game
 4. Have fun playing!
 
-# Author
+## Author
 This game was made by JarTenh. Feel free to use the code in this repository
 as you like.
